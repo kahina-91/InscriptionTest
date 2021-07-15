@@ -1,0 +1,87 @@
+.formConnect{
+    background-color: rgb(12, 57, 139);
+    padding: 10px;
+    margin: 10px 10px 0 0;
+    color: white;
+}
+.insc{
+    background-color: rgba(168, 190, 223, 0.329);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 10px;
+}
+.insc .chmp {
+    width: 90%!important;
+    display: flex;
+    float: left;
+}
+.insc .chmp input{
+    width: 100%!important;
+    justify-content:space-evenly;
+    padding-right: 10px;
+    border-radius: 3px;
+    height: 30px;
+}
+.insc .champ input{
+    width: 90%;
+    margin: 20px 20px 0 0;
+      border-radius: 3px;
+}
+
+.champs{
+    display: flex;
+    
+}
+form{
+  width: 90%;  
+}
+.butt{
+    background-color: rgb(43, 99, 202);
+    color: white;
+    margin-top: 20px;
+    width: 90px;
+    height: 40px;
+}
+.champ{
+    flex: 1;
+}
+.champ input{
+    flex: 1;
+    padding: 0 50px 0 5px;
+}
+.champ input{
+    height: 30px;
+    
+}
+.site-content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+label{
+    vertical-align: text-top;
+}
+p{
+    display: flex!important;
+  flex-wrap: wrap!important;
+}
+.insConn{
+    width: 50%;
+    
+}
+button{
+    padding: 10px;
+    color: white;
+    border-radius: 5px;
+    background-color: rgb(24, 100, 24);
+    width: 200px;
+    margin-top: 30px;
+}
+
+.dat p{
+   float: right;
+    color: rgba(34, 34, 253, 0.432);
+    font-size: 15px;
+    margin-left: -250px;
+}
